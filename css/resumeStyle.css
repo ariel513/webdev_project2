@@ -1,1 +1,26 @@
+#main-nav {
+    float: left;
+    width: 100%;
+    background-color: #aa2501;
+}
 
+#main-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+    position: relative;
+    left: 50%;
+}
+
+#main-nav ul li {
+    float: left;
+}
+
+#main-nav ul li a {
+    padding: 10px 25px;
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-family: 'DM+Sans', sans-serif;
+}
