@@ -94,6 +94,7 @@ p {
     background-color: #FCFBF4;
     padding: 20px;
     border-radius: 10px;
+    font-family: 'Cormorant Garamond';
 }
 
 #content-wrapper {
@@ -102,4 +103,14 @@ p {
     align-items: flex-start;
     gap: 5%;
     margin: 40px;
+}
+
+#em {
+    font-weight: 600;
+    font-family: 'Cormorant Garamond';
+}
+
+#am {
+    font-weight: 600;
+    font-family: 'Cormorant Garamond';
 }
