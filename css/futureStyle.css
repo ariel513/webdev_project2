@@ -21,6 +21,10 @@
     right: 50%;
 }
 
+ul {
+    list-style-type: circle;
+}
+
 #main-nav ul li a {
     padding: 10px 25px;
     display: block;
@@ -38,7 +42,7 @@
     font-size: 80px;
     text-align: center;
     padding-top: 4%;
-    font-family: 'Cormorant Garamond';
+    font-family: 'Georgia';
     font-weight: 400;
 }
 
