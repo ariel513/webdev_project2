@@ -44,7 +44,9 @@ header {
     width: 3000px;
 }
 
-
+iframe {
+    border: none;
+}
 
 #title {
     font-size: 80px;
