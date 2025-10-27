@@ -1,1 +1,56 @@
+#main-nav {
+    border: 1px solid #ccc;
+    width: 100%;
+    background-color: #06402B;
+    float: left;
+}
 
+#main-nav ul {
+    float: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 50%;
+}
+
+#main-nav ul li {
+    float: left;
+    position: relative;
+    right: 50%;
+}
+
+#main-nav ul li a {
+    padding: 10px 25px;
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-family: 'DM Sans';
+    font-size: 30px;
+}
+
+#main-nav ul li a:hover {
+    background-color: #486856;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #dbe8d7;
+}
+
+#title {
+    font-size: 80px;
+    text-align: center;
+    padding-top: 4%;
+    font-family: 'Cormorant Garamond';
+    font-weight: 400;
+}
+
+#blurb {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Parkinsans';
+    font-weight: 400;
+    padding: 1%;
+}
